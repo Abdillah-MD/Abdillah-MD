@@ -83,8 +83,17 @@ Quand je ne code pas pour mes clients, je construis [**Sortir à Mayotte**](http
 ### 📊&nbsp;&nbsp;GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdillah-MD&show_icons=true&hide_border=true&bg_color=1E293B&title_color=5ce1e6&icon_color=1278f6&text_color=E2E8F0&include_all_commits=true&count_private=true&border_radius=16" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdillah-MD&layout=compact&hide_border=true&bg_color=1E293B&title_color=5ce1e6&text_color=E2E8F0&langs_count=6&border_radius=16" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdillah-MD&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdillah-MD&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdillah-MD&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdillah-MD&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdillah-MD&theme=tokyo-night&utcOffset=2" />
 </p>
 
 <p align="center">
