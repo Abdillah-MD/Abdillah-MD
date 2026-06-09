@@ -44,22 +44,15 @@ Quand je ne code pas pour mes clients, je construis [**Sortir à Mayotte**](http
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>🌐&nbsp;&nbsp;Web — Next.js</strong><br/><br/>
-      <a href="https://www.sortiramayotte.fr/">
-        <img src="https://img.shields.io/badge/Visiter%20le%20site-1278f6?style=for-the-badge&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <strong>📱&nbsp;&nbsp;Mobile — React Native</strong><br/><br/>
-      <a href="https://www.sortiramayotte.fr/">
-        <img src="https://img.shields.io/badge/Bient%C3%B4t%20iOS%20%2F%20Android-5ce1e6?style=for-the-badge&logoColor=0F172A" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.sortiramayotte.fr/">
+    <img src="https://img.shields.io/badge/🌐%20Visiter%20le%20site%20Next.js-1278f6?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.sortiramayotte.fr/telecharger">
+    <img src="https://img.shields.io/badge/📱%20T%C3%A9l%C3%A9charger%20l%27app%20React%20Native-5ce1e6?style=for-the-badge&logoColor=0F172A" />
+  </a>
+</p>
 
 <p align="center">
   <sub>🎟️ 500+ événements · 💳 Paiement Stripe · ⚡ Réservations temps réel · 🤖 Reco intelligente</sub>
@@ -90,8 +83,8 @@ Quand je ne code pas pour mes clients, je construis [**Sortir à Mayotte**](http
 ### 📊&nbsp;&nbsp;GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdillah-MD&show_icons=true&hide_border=true&bg_color=0F172A&title_color=5ce1e6&icon_color=1278f6&text_color=CBD5E1&include_all_commits=true&count_private=true&border_radius=16" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdillah-MD&layout=compact&hide_border=true&bg_color=0F172A&title_color=5ce1e6&text_color=CBD5E1&langs_count=6&border_radius=16" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdillah-MD&show_icons=true&hide_border=true&bg_color=1E293B&title_color=5ce1e6&icon_color=1278f6&text_color=E2E8F0&include_all_commits=true&count_private=true&border_radius=16" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdillah-MD&layout=compact&hide_border=true&bg_color=1E293B&title_color=5ce1e6&text_color=E2E8F0&langs_count=6&border_radius=16" />
 </p>
 
 <p align="center">
